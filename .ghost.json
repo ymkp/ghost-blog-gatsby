@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": " https://apiblog.vantura.id",
-    "contentApiKey": "ad9ccbfed7b9c1e5551f94c46b"
+    "apiUrl": " https://ghost.rutesatu.com",
+    "contentApiKey": "8486b2a2906bf24fc866f041ff"
   },
   "production": {
-    "apiUrl": " https://apiblog.vantura.id",
-    "contentApiKey": "ad9ccbfed7b9c1e5551f94c46b"
+    "apiUrl": " https://ghost.rutesatu.com",
+    "contentApiKey": "8486b2a2906bf24fc866f041ff"
   }
 }
